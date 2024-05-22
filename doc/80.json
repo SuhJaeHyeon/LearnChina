@@ -1,0 +1,452 @@
+[
+    {
+        "chinese": "敎",
+        "mean_sound": "가르칠 교:",
+        "mean": "가르칠",
+        "sound": "교",
+        "header": "攴",
+        "count_own": 7,
+        "count_all": 11
+    },
+    {
+        "chinese": "校",
+        "mean_sound": "학교 교:",
+        "mean": "학교",
+        "sound": "교",
+        "header": "木",
+        "count_own": 6,
+        "count_all": 10
+    },
+    {
+        "chinese": "九",
+        "mean_sound": "아홉 구",
+        "mean": "아홉",
+        "sound": "구",
+        "header": "乙",
+        "count_own": 1,
+        "count_all": 2
+    },
+    {
+        "chinese": "國",
+        "mean_sound": "나라 국",
+        "mean": "나라",
+        "sound": "국",
+        "header": "囗",
+        "count_own": 8,
+        "count_all": 11
+    },
+    {
+        "chinese": "軍",
+        "mean_sound": "군사 군",
+        "mean": "군사",
+        "sound": "군",
+        "header": "車",
+        "count_own": 2,
+        "count_all": 9
+    },
+    {
+        "chinese": "金",
+        "mean_sound": "쇠 금 | 성(姓) 김",
+        "mean": "쇠",
+        "sound": "금",
+        "header": "金",
+        "count_own": 0,
+        "count_all": 8
+    },
+    {
+        "chinese": "南",
+        "mean_sound": "남녘 남",
+        "mean": "남녘",
+        "sound": "남",
+        "header": "十",
+        "count_own": 7,
+        "count_all": 9
+    },
+    {
+        "chinese": "女",
+        "mean_sound": "계집 녀",
+        "mean": "계집",
+        "sound": "녀",
+        "header": "女",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "年",
+        "mean_sound": "해 년",
+        "mean": "해",
+        "sound": "년",
+        "header": "干",
+        "count_own": 3,
+        "count_all": 6
+    },
+    {
+        "chinese": "大",
+        "mean_sound": "큰 대(:)",
+        "mean": "큰",
+        "sound": "대",
+        "header": "大",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "東",
+        "mean_sound": "동녘 동",
+        "mean": "동녘",
+        "sound": "동",
+        "header": "木",
+        "count_own": 4,
+        "count_all": 8
+    },
+    {
+        "chinese": "六",
+        "mean_sound": "여섯 륙",
+        "mean": "여섯",
+        "sound": "륙",
+        "header": "八",
+        "count_own": 2,
+        "count_all": 4
+    },
+    {
+        "chinese": "萬",
+        "mean_sound": "일만 만:",
+        "mean": "일만",
+        "sound": "만",
+        "header": "艸",
+        "count_own": 9,
+        "count_all": 13
+    },
+    {
+        "chinese": "母",
+        "mean_sound": "어미 모:",
+        "mean": "어미",
+        "sound": "모",
+        "header": "毋",
+        "count_own": 1,
+        "count_all": 5
+    },
+    {
+        "chinese": "木",
+        "mean_sound": "나무 목",
+        "mean": "나무",
+        "sound": "목",
+        "header": "木",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "門",
+        "mean_sound": "문 문",
+        "mean": "문",
+        "sound": "문",
+        "header": "門",
+        "count_own": 0,
+        "count_all": 8
+    },
+    {
+        "chinese": "民",
+        "mean_sound": "백성 민",
+        "mean": "백성",
+        "sound": "민",
+        "header": "氏",
+        "count_own": 1,
+        "count_all": 5
+    },
+    {
+        "chinese": "白",
+        "mean_sound": "흰 백",
+        "mean": "흰",
+        "sound": "백",
+        "header": "白",
+        "count_own": 0,
+        "count_all": 5
+    },
+    {
+        "chinese": "父",
+        "mean_sound": "아비 부",
+        "mean": "아비",
+        "sound": "부",
+        "header": "父",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "北",
+        "mean_sound": "북녘 북 | 달아날 배:",
+        "mean": "북녘",
+        "sound": "북",
+        "header": "匕",
+        "count_own": 3,
+        "count_all": 5
+    },
+    {
+        "chinese": "四",
+        "mean_sound": "넉 사:",
+        "mean": "넉",
+        "sound": "사",
+        "header": "囗",
+        "count_own": 2,
+        "count_all": 5
+    },
+    {
+        "chinese": "山",
+        "mean_sound": "메 산",
+        "mean": "메",
+        "sound": "산",
+        "header": "山",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "三",
+        "mean_sound": "석 삼",
+        "mean": "석",
+        "sound": "삼",
+        "header": "一",
+        "count_own": 2,
+        "count_all": 3
+    },
+    {
+        "chinese": "生",
+        "mean_sound": "날 생",
+        "mean": "날",
+        "sound": "생",
+        "header": "生",
+        "count_own": 0,
+        "count_all": 5
+    },
+    {
+        "chinese": "西",
+        "mean_sound": "서녘 서",
+        "mean": "서녘",
+        "sound": "서",
+        "header": "襾",
+        "count_own": 0,
+        "count_all": 6
+    },
+    {
+        "chinese": "先",
+        "mean_sound": "먼저 선",
+        "mean": "먼저",
+        "sound": "선",
+        "header": "儿",
+        "count_own": 4,
+        "count_all": 6
+    },
+    {
+        "chinese": "小",
+        "mean_sound": "작을 소:",
+        "mean": "작을",
+        "sound": "소",
+        "header": "小",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "水",
+        "mean_sound": "물 수",
+        "mean": "물",
+        "sound": "수",
+        "header": "水",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "室",
+        "mean_sound": "집 실",
+        "mean": "집",
+        "sound": "실",
+        "header": "宀",
+        "count_own": 6,
+        "count_all": 9
+    },
+    {
+        "chinese": "十",
+        "mean_sound": "열 십",
+        "mean": "열",
+        "sound": "십",
+        "header": "十",
+        "count_own": 0,
+        "count_all": 2
+    },
+    {
+        "chinese": "五",
+        "mean_sound": "다섯 오:",
+        "mean": "다섯",
+        "sound": "오",
+        "header": "二",
+        "count_own": 2,
+        "count_all": 4
+    },
+    {
+        "chinese": "王",
+        "mean_sound": "임금 왕",
+        "mean": "임금",
+        "sound": "왕",
+        "header": "玉",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "外",
+        "mean_sound": "바깥 외:",
+        "mean": "바깥",
+        "sound": "외",
+        "header": "夕",
+        "count_own": 2,
+        "count_all": 5
+    },
+    {
+        "chinese": "月",
+        "mean_sound": "달 월",
+        "mean": "달",
+        "sound": "월",
+        "header": "月",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "二",
+        "mean_sound": "두 이:",
+        "mean": "두",
+        "sound": "이",
+        "header": "二",
+        "count_own": 0,
+        "count_all": 2
+    },
+    {
+        "chinese": "人",
+        "mean_sound": "사람 인",
+        "mean": "사람",
+        "sound": "인",
+        "header": "人",
+        "count_own": 0,
+        "count_all": 2
+    },
+    {
+        "chinese": "日",
+        "mean_sound": "날 일",
+        "mean": "날",
+        "sound": "일",
+        "header": "日",
+        "count_own": 0,
+        "count_all": 4
+    },
+    {
+        "chinese": "一",
+        "mean_sound": "한 일",
+        "mean": "한",
+        "sound": "일",
+        "header": "一",
+        "count_own": 0,
+        "count_all": 1
+    },
+    {
+        "chinese": "長",
+        "mean_sound": "긴 장(:)",
+        "mean": "긴",
+        "sound": "장",
+        "header": "長",
+        "count_own": 0,
+        "count_all": 8
+    },
+    {
+        "chinese": "弟",
+        "mean_sound": "아우 제:",
+        "mean": "아우",
+        "sound": "제",
+        "header": "弓",
+        "count_own": 4,
+        "count_all": 7
+    },
+    {
+        "chinese": "中",
+        "mean_sound": "가운데 중",
+        "mean": "가운데",
+        "sound": "중",
+        "header": "丨",
+        "count_own": 3,
+        "count_all": 4
+    },
+    {
+        "chinese": "靑",
+        "mean_sound": "푸를 청",
+        "mean": "푸를",
+        "sound": "청",
+        "header": "靑",
+        "count_own": 0,
+        "count_all": 8
+    },
+    {
+        "chinese": "寸",
+        "mean_sound": "마디 촌:",
+        "mean": "마디",
+        "sound": "촌",
+        "header": "寸",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "七",
+        "mean_sound": "일곱 칠",
+        "mean": "일곱",
+        "sound": "칠",
+        "header": "一",
+        "count_own": 1,
+        "count_all": 2
+    },
+    {
+        "chinese": "土",
+        "mean_sound": "흙 토",
+        "mean": "흙",
+        "sound": "토",
+        "header": "土",
+        "count_own": 0,
+        "count_all": 3
+    },
+    {
+        "chinese": "八",
+        "mean_sound": "여덟 팔",
+        "mean": "여덟",
+        "sound": "팔",
+        "header": "八",
+        "count_own": 0,
+        "count_all": 2
+    },
+    {
+        "chinese": "學",
+        "mean_sound": "배울 학",
+        "mean": "배울",
+        "sound": "학",
+        "header": "子",
+        "count_own": 13,
+        "count_all": 16
+    },
+    {
+        "chinese": "韓",
+        "mean_sound": "한국/나라 한(:)",
+        "mean": "한국/나라",
+        "sound": "한",
+        "header": "韋",
+        "count_own": 8,
+        "count_all": 17
+    },
+    {
+        "chinese": "兄",
+        "mean_sound": "형 형",
+        "mean": "형",
+        "sound": "형",
+        "header": "儿",
+        "count_own": 3,
+        "count_all": 5
+    },
+    {
+        "chinese": "火",
+        "mean_sound": "불 화(:)",
+        "mean": "불",
+        "sound": "화",
+        "header": "火",
+        "count_own": 0,
+        "count_all": 4
+    }
+]
