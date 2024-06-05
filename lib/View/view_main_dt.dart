@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:learnchina/Util/util_grade.dart';
@@ -7,12 +8,12 @@ import 'package:provider/provider.dart';
 
 import '../ViewModel/vm_learning.dart';
 
-class MainView extends StatefulWidget {
+class MainView_dt extends StatefulWidget {
   @override
-  State<StatefulWidget> createState() => MainViewState();
+  State<StatefulWidget> createState() => MainView_dtState();
 }
 
-class MainViewState extends State<MainView> {
+class MainView_dtState extends State<MainView_dt> {
   int _selectedIndex = 0;
 
   static List<Widget> _widgetOptions = <Widget>[

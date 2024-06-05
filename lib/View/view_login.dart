@@ -1,6 +1,8 @@
+import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:learnchina/View/view_main.dart';
+import 'package:learnchina/View/view_main_dt.dart';
+import 'package:learnchina/View/view_main_m.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -22,9 +24,19 @@ class _LoginPageState extends State<LoginPage> {
       }
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => MainView()),
+        MaterialPageRoute(builder: (context) => MainViewM()),
       );
-
+      // if(Platform.isAndroid || Platform.isIOS){
+      //   Navigator.push(
+      //     context,
+      //     MaterialPageRoute(builder: (context) => MainViewM()),
+      //   );
+      // }else {
+      //   Navigator.push(
+      //     context,
+      //     MaterialPageRoute(builder: (context) => MainView_dt()),
+      //   );
+      // }
     }
   }
 
